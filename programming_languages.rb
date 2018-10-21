@@ -24,3 +24,4 @@ final = h.deep_merge(a2)
 final[:javascript][:style]=[:oo, :functional]
 final
 end
+
